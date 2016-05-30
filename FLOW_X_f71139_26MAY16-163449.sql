@@ -1,3 +1,6 @@
+
+-- Cambio de prueba realizado por Ludwin
+
 set define off verify off feedback off
 whenever sqlerror exit sql.sqlcode rollback
 --------------------------------------------------------------------------------
