@@ -1,7 +1,6 @@
 deleted file mode 100644
 @@ -1,16896 +0,0 @@
 -
---- Cambio de prueba realizado por Ludwin
 -
 -set define off verify off feedback off
 -whenever sqlerror exit sql.sqlcode rollback
@@ -33,7 +32,7 @@ deleted file mode 100644
 ---   Application:     71139
 ---   Name:            RENT
 ---   Date and Time:   16:34 Jueves Mayo 26, 2016
----   Exported By:     CRISTIAN_LOPERA
+---   Exported By:     CRISTIAN_LO
 ---   Flashback:       0
 ---   Export Type:     Application Export
 ---   Version:         5.0.3.00.03
